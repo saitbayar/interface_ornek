@@ -1,0 +1,8 @@
+C:\Users\veyse\Desktop\c#\interfacesDemo\interfacesDemo\bin\Debug\interfacesDemo.exe.config
+C:\Users\veyse\Desktop\c#\interfacesDemo\interfacesDemo\bin\Debug\interfacesDemo.exe
+C:\Users\veyse\Desktop\c#\interfacesDemo\interfacesDemo\bin\Debug\interfacesDemo.pdb
+C:\Users\veyse\Desktop\c#\interfacesDemo\interfacesDemo\obj\Debug\interfacesDemo.csproj.AssemblyReference.cache
+C:\Users\veyse\Desktop\c#\interfacesDemo\interfacesDemo\obj\Debug\interfacesDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\veyse\Desktop\c#\interfacesDemo\interfacesDemo\obj\Debug\interfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\veyse\Desktop\c#\interfacesDemo\interfacesDemo\obj\Debug\interfacesDemo.exe
+C:\Users\veyse\Desktop\c#\interfacesDemo\interfacesDemo\obj\Debug\interfacesDemo.pdb
